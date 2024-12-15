@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohsen/Documents/code/can-i-grad/server/server.csproj": {}
+    "/Users/mohsen/Documents/code/can-i-grad/server/server/server.csproj": {}
   },
   "projects": {
-    "/Users/mohsen/Documents/code/can-i-grad/server/server.csproj": {
+    "/Users/mohsen/Documents/code/can-i-grad/server/server/server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohsen/Documents/code/can-i-grad/server/server.csproj",
+        "projectUniqueName": "/Users/mohsen/Documents/code/can-i-grad/server/server/server.csproj",
         "projectName": "server",
-        "projectPath": "/Users/mohsen/Documents/code/can-i-grad/server/server.csproj",
+        "projectPath": "/Users/mohsen/Documents/code/can-i-grad/server/server/server.csproj",
         "packagesPath": "/Users/mohsen/.nuget/packages/",
-        "outputPath": "/Users/mohsen/Documents/code/can-i-grad/server/obj/",
+        "outputPath": "/Users/mohsen/Documents/code/can-i-grad/server/server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohsen/.nuget/NuGet/NuGet.Config"
